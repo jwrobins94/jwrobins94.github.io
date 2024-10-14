@@ -36,3 +36,7 @@ I was fortunate to be able to focus a lot of my time at CMU on ML and game theor
 ### Hobbies
 
 I [compete](https://www.openpowerlifting.org/u/joeyrobinson) in powerlifting and enjoy [underwater macro photography](https://adobe.ly/3H7IWmw).
+
+### Contact
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/joey-robinson-a9532631/)!

@@ -69,7 +69,7 @@ In ads, there is little available research that studies this behavior. That said
 
 ### Ad Repetition and Data Duplication
 
-You're likely familiar with the experience of seeing the same ad repeatedly on an ad platform. When it comes to recommendation systems, this phenomenon is relatively unique to ad ranking: you typically watch new movies and TV shows on netflix, new shorts on TikTok, or consume new tweets on X. However, it’s not uncommon for you to consume the same or similar ad over and over.
+You're likely familiar with the experience of seeing the same ad repeatedly on an ad platform. When it comes to recommendation systems, this phenomenon is relatively unique to ad ranking: you typically watch new movies and TV shows on Netflix, new shorts on TikTok, or consume new tweets on X. However, it’s not uncommon for you to consume the same or similar ad over and over.
 
 From the model's perspective, many of these ad impressions look near-identical:
 1. Same user
